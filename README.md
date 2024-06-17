@@ -7,7 +7,7 @@ Multi-region Web Server Deployment with EBS Volume Management
 
 Refer the EC2-Configuration file to create EC2 Instance in us-east-1 (North Virginia) region as shown below
 
-![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/c62f15cb-f5a9-4daa-8f21-d5cb16258be7)
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/67570b2d-cbe0-47c1-9168-d16abaf0a7cc)
 
 #### Step 2 :-
 
