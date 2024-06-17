@@ -1,3 +1,7 @@
+### To perform the EBS part of the project follow the below steps
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Step 1:-
 
 Follow the steps given in EBS-Configuration and create 2 volumes of 10 GiB and 15 GiB
