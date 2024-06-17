@@ -51,5 +51,35 @@ Use below command to mount the volumes on created mounting points
       sudo mount /dev/xvdf VOL-1
       sudo mount /dev/xvdg VOL-2
 
+Verify if the volumes are mounted using the commands:
+
+      lsblk
+      df -h
+
 ![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/0dc543d0-fedb-408c-a592-61c18c94c2f7)
+
+#### Step 7 :- 
+
+So now we need to delete one volume.
+The best practice is to 1st unmount the volume, detach it from the EC2 Instance and then delete it.
+
+To unmount the volume use the below command
+
+      sudo umount /dev/xvdf
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/05470856-f3da-4fa4-a2ad-2a47ab7e5293)
+
+Now go to Volume section and detach the same volume from the EC2 Instance and later delete that volume.
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/5b42e2a7-b630-4b05-a6d5-6dd7a81756c0)
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/bd5e180b-c2da-410b-a886-29458578c644)
+
+#### Step 8 :-
+
+Now, extend the size of volume which is still attached to EC2 Instance
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/5bfb73d2-18fc-46fd-953b-b35b28928533)
+
+#### Step 9 :-
 
