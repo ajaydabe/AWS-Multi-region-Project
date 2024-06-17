@@ -1,4 +1,4 @@
-### To perform the EBS part of the project follow the below steps
+### To perform the EBS task of the project, follow the steps given below and mount the volumes
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,7 +20,9 @@ Perform the same step for the another volume and attach it to EC2 Instance.
 
 #### Step 3:-
 
-Connect to your EC2 Instance
+Connect to the EC2 Instance and list the available disk devices to verify the attachment using below command.
+
+      lsblk
 
 #### Step 4:-
 
