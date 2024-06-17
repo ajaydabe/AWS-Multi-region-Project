@@ -1,0 +1,6 @@
+Tasks To Be Performed:
+Create an instance in the US-East-1 (N. Virginia) region with Linux OS and manage the requirement of web servers of your company using AMI.
+Replicate the instance in the US-West-2 (Oregon) region.
+Build two EBS volumes and attach them to the instance in the US-East-1 (N. Virginia) region.
+Delete one volume after detaching it and extend the size of the other volume.
+Take backup of this EBS volume
