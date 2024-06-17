@@ -1,0 +1,11 @@
+Login to your AWS Console.
+Navigate to EC2 Service
+Select "Launch Instance"
+Select required configurations:
+    a. Instance name
+    b. Select AMI ex. Ubuntu 22.0
+    c. Instance Type ex. t2.micro
+    d. Key Pair (Recommonded)
+    e. Network Setting (select VPC, Subnet & SG)
+    f. Configure Storage ex. 8 GiB - gp3
+Click on launch instance
