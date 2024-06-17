@@ -34,3 +34,9 @@ Image will get copied in the given region
 #### Step 5 :-
 
 Now, Select the Image once it's available and click on Launch instance from AMI
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/615bf5a0-f3f3-47ee-accf-05c18476fc0c)
+
+Specifiy other required configurations and launch instance.
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/acaf87d1-ec76-48bf-9f97-af1489acc8f5)
