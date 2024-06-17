@@ -46,5 +46,10 @@ Create two directories as a mounting points for the volumes using below command
 
 #### Step 6 :-
 
+Use below command to mount the volumes on created mounting points
+
+      sudo mount /dev/xvdf VOL-1
+      sudo mount /dev/xvdg VOL-2
+
 ![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/0dc543d0-fedb-408c-a592-61c18c94c2f7)
 
