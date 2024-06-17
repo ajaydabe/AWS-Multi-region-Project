@@ -5,4 +5,4 @@ Multi-region Web Server Deployment with EBS Volume Management
 
 #### Step 1 :-
 
-Refer the EC2-Configuration 
+Refer the EC2-Configuration https://github.com/ajaydabe/AWS-Multi-region-Project/blob/850671adea82b151efd672350be4410a66cb04b7/EC2-Configuration
