@@ -26,7 +26,7 @@ Connect to the EC2 Instance and list the available disk devices to verify the at
 
 #### Step 4:-
 
-Create File Systems using the below command
+Create File Systems on the volume using the below command
       
       sudo mkfs -t xfs /dev/xvdf
       sudo mkfs -t xfs /dev/xvdk
