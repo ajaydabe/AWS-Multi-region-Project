@@ -81,5 +81,9 @@ Now, extend the size of volume which is still attached to EC2 Instance
 
 ![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/5bfb73d2-18fc-46fd-953b-b35b28928533)
 
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/7e68e505-914b-4b1f-b18d-ee192147e4ee)
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/350b88c4-40ca-4b90-bd2c-eb4f0d881a70)
+
 #### Step 9 :-
 
