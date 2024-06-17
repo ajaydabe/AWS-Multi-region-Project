@@ -87,3 +87,8 @@ Now, extend the size of volume which is still attached to EC2 Instance
 
 #### Step 9 :-
 
+To take the backup of the EBS Volume, create a snapshot of that volume.
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/82ca4960-1df5-460f-bc98-c9c3d26c563f)
+
+![image](https://github.com/ajaydabe/AWS-Multi-region-Project/assets/160045230/75d1c6d4-65f0-4cf2-95f4-8406207285a3)
