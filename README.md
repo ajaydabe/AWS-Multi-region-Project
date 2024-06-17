@@ -12,5 +12,6 @@ Refer the EC2-Configuration file to create EC2 Instance in us-east-1 (North Virg
 #### Step 2 :-
 
 Once the instance get launched, connect it and update the instance with the below command
-  sudo apt-get update -y
+
+    sudo apt-get update -y
 
