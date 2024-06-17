@@ -13,6 +13,7 @@ Connect to your EC2 Instance
 #### Step 4:-
 
 Create File Systems using the below command
+      
       sudo mkfs -t xfs /dev/xvdf
       sudo mkfs -t xfs /dev/xvdk
 
