@@ -6,13 +6,13 @@ To create two EBS volumes follow the below steps:
 
 3) Select the required specifications
 
-      a. Volume type [ex. General Purpose SSD (gp3)]
+      a. Volume type [General Purpose SSD (gp3)]
 
-      b. Size [ex. 15 GiB]
+      b. Size [15 GiB]
 
-      c. IOPS [ex. 3000]
+      c. IOPS [3000]
 
-      d. Throughput (MiB/s) [ex. 125]
+      d. Throughput (MiB/s) [125]
 
       e. Availability Zone (Select same as EC2 Instance AZ)
 
