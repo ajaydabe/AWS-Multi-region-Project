@@ -12,14 +12,14 @@
 
       a. Instance name
 
-      b. Select AMI [ex. Ubuntu 22.0]
+      b. Select AMI [Ubuntu 22.0]
 
-      c. Instance Type [ex. t2.micro]
+      c. Instance Type [t2.micro]
 
       d. Key Pair (Recommonded)
 
       e. Network Setting (select VPC, Subnet & SG)
 
-      f. Configure Storage [ex. 8 GiB - gp3]
+      f. Configure Storage [8 GiB - gp3]
 
 6) Click on launch instance
