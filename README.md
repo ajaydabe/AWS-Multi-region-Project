@@ -1,5 +1,30 @@
 ## AWS Multi-Region Web Server Deployment with EBS Volume Management
 
+Refer the Task file to understand the project.
+
+Specifications to create EC2 Instance and EBS Volumes are given in EC2-Configurations and EBS-Configurations files.
+
+### Flow of the Project
+
+    Create EC2 Instance in us-east-1 region
+                      🡇
+      Create Image from the created Instance
+                      🡇
+      Copy that Image in us-west-2 region
+                      🡇
+       Launch an Instance from that Image
+                      🡇
+     Create 2 EBS Volumes in us-east-1 region
+                      🡇
+      Attach both the EBS Volumes to Instance
+           created in us-east-1 region
+                      🡇
+              Delete one Volume
+                      🡇
+       Extend the size of the other Volume
+                      🡇
+        Take a Snapshot of that Volume
+
 ### Conclusion:-
 
 #### High Availability and Redundancy:
